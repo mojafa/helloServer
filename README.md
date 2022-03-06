@@ -1,0 +1,1 @@
+Getting started with Golang for building web services. Learnt folder structures, sessions, cookies, middlewares (both Chi and Pat), and getting IP address of a user.
